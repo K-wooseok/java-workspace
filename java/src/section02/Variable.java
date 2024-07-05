@@ -2,7 +2,7 @@ package section02;
 
 public class Variable {
     public static void main(String[] args){
-        // tip : 
+        // tip : 자동 들여쓰기 줄 맞춤 alt + shilt + f
         // 자료형
         // 1) 기본 자료형(primitive type)
         // - 정수(3) : byte(1byte == 8bit), short(2byte), int(4), long(8)
